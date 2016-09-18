@@ -1,0 +1,32 @@
+{
+	"ImportPath": "ifg",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/influxdata/influxdb/client/v2",
+			"Comment": "v1.0.0-96-g7e515cf",
+			"Rev": "7e515cf5f7c298abd8aae62ed1f7bb85601a4b4d"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/models",
+			"Comment": "v1.0.0-96-g7e515cf",
+			"Rev": "7e515cf5f7c298abd8aae62ed1f7bb85601a4b4d"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/pkg/escape",
+			"Comment": "v1.0.0-96-g7e515cf",
+			"Rev": "7e515cf5f7c298abd8aae62ed1f7bb85601a4b4d"
+		},
+		{
+			"ImportPath": "github.com/shirou/gopsutil/internal/common",
+			"Comment": "v2.1-57-gc2c3343",
+			"Rev": "c2c33439b4f4f22fd6a4e37d6343de7778a50b20"
+		},
+		{
+			"ImportPath": "github.com/shirou/gopsutil/mem",
+			"Comment": "v2.1-57-gc2c3343",
+			"Rev": "c2c33439b4f4f22fd6a4e37d6343de7778a50b20"
+		}
+	]
+}
